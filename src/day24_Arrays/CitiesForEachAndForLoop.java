@@ -1,6 +1,6 @@
 package day24_Arrays;
 
-public class Cities {
+public class CitiesForEachAndForLoop {
 
 	public static void main(String[] args) {
 		// 
